@@ -1,0 +1,2 @@
+# Netflix-Data-Analysis-Visualization-Trend-Insights.
+    Netflix Content Analysis &amp; Visualization: A data-driven exploration of Netflix's library using Python. This project analyzes trends in Movies vs. TV Shows, global content distribution, and growth over time. Key features include automated data cleaning and interactive visualizations (Matplotlib/Seaborn) to uncover strategic business insights.
