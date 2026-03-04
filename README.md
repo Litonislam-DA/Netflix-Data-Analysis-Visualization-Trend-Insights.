@@ -27,8 +27,8 @@ to me
     ​🔞 Target Audience: A significant portion of the catalog is rated TV-MA, indicating a heavy focus on mature audiences.
 
 ​🖼️ Dashboard Preview
+<img width="1298" height="811" alt="Netflix Content Strategy   Insights Dashboard" src="https://github.com/user-attachments/assets/e8cd9330-e9e9-4b9b-9338-f8cf51eee9ae" />
 
-​![Netflix Dashboard Screenshot](Netflix Content Strategy & Insights Dashboard.png)
 
 # Netflix-Data-Analysis-Visualization-Trend-Insights.
     Netflix Content Analysis &amp; Visualization: A data-driven exploration of Netflix's library using Python. This project analyzes trends in Movies vs. TV Shows, global content distribution, and growth over time. Key features include automated data cleaning and interactive visualizations (Matplotlib/Seaborn) to uncover strategic business insights.
