@@ -1,7 +1,7 @@
 Liton Islam <litonislamnext@gmail.com>
 to me
 
-আপনার GitHub README.md ফাইলের জন্য ইমোজি এবং প্রফেশনাল ফরম্যাটসহ ইংরেজি ডেসক্রিপশনটি নিচে দেওয়া হলো। আপনি এটি সরাসরি কপি করে ব্যবহার করতে পারেন:
+
 ​📊 Netflix Content Strategy & Insights Dashboard
 ​📝 Project Overview
 
