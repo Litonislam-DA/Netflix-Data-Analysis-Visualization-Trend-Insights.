@@ -47,6 +47,6 @@ litonislamnext@gmail.com.
 
 
 
-🚀 Explore the Full Analysis on Kaggle:
+🚀 Explore the Full Analysis on Kaggle:You can find the full datasets and detailed Python notebooks here:
  * 📊[Notebook]https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
  * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
