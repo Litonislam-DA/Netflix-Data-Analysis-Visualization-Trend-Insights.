@@ -7,6 +7,10 @@ Liton Islam
 
 litonislamnext@gmail.com.
 
+
+​🖼️ Dashboard Preview
+<img width="1298" height="811" alt="Netflix Content Strategy   Insights Dashboard" src="https://github.com/user-attachments/assets/e8cd9330-e9e9-4b9b-9338-f8cf51eee9ae" />
+
 ​📊 Netflix Content Strategy & Insights Dashboard
 ​📝 Project Overview
 
@@ -37,5 +41,9 @@ litonislamnext@gmail.com.
 
 # Netflix-Data-Analysis-Visualization-Trend-Insights.
     Netflix Content Analysis &amp; Visualization: A data-driven exploration of Netflix's library using Python. This project analyzes trends in Movies vs. TV Shows, global content distribution, and growth over time. Key features include automated data cleaning and interactive visualizations (Matplotlib/Seaborn) to uncover strategic business insights.
-🚀 Check my Analysis on Kaggle  
-https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
+
+
+
+🚀 Explore the Full Analysis on Kaggle:
+ * 📊[Notebook]https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
+ * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
