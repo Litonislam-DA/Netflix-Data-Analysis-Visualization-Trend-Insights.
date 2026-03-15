@@ -1,6 +1,7 @@
-Liton Islam <litonislamnext@gmail.com>
-to me
+To me
+Liton Islam
 
+litonislamnext@gmail.com.
 
 ​📊 Netflix Content Strategy & Insights Dashboard
 ​📝 Project Overview
